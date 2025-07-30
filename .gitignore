@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# System files
+*~
+.fuse_hidden*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Application specific
+.raycast/
+.wispr/
+
+# User specific configurations
+config/personal/
+*.local
+
+# Documentation builds
+docs/_build/
+docs/build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Icon?
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Network folder files
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
